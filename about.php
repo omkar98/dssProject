@@ -108,6 +108,9 @@
                                 </li>
                                 <li>
                                 <li>
+                                    <h6>CSR Reg No:</h6><span>CSR00015321</span>
+                                </li>
+                                <li>
                                     <h6>NGO Darpan Unique ID:</h6><span>MH/2017/0172759</span>
                                 </li>
                                 <li>
@@ -161,9 +164,25 @@
                             <h5 class="title">Donation</h5>
                         </div>
                         <div class="widget-body">
-                            <a href="#">
-                                <img src="assets/images/Team/QRCode.jpeg" alt="add Banner">
-                            </a>
+                                <?php
+                                    $qrCodeFile = implode(glob('assets/images/Team/QRCode.jpeg')); 
+                                    if (empty($qrCodeFile)) {
+                                        $GLOBALS['qrCode'] = false;
+                                        $GLOBALS['qrCodeFile'] = implode(glob('assets/images/Team/QRCode_demo.jpeg'));
+                                        $GLOBALS['qrCodeText'] = "UPI Payment & QR Code <br> Coming Soon!";
+                                    }
+                                    else {
+                                        $GLOBALS['qrCode'] = true;
+                                        $GLOBALS['qrCodeFile'] = $qrCodeFile;
+                                        $GLOBALS['qrCodeText'] = "QR Code/UPI Payment";
+                                    }  
+                                ?>
+                            <h5 class="causes-catagiry mb-2 text-uppercase pr-5" style="color: red"><?php echo $GLOBALS['qrCodeText'] ?>
+                                </h5>
+                            <a>
+                                <img src="<?php echo $GLOBALS['qrCodeFile']; ?>"
+                                 alt="add Banner">
+                            </a> <hr>
                             <div class="causes-item">
                                 <div class="causes-inner mb-4">
                                     <div class="causes-content">
@@ -179,7 +198,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="widget widget-tags">
+                    <!-- <div class="widget widget-tags">
                         <div class="widget-header">
                             <h5 class="title">Document Downloads</h5>
                         </div>
@@ -205,7 +224,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                 </aside>
             </div>
         </div>

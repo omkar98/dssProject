@@ -69,23 +69,23 @@
                                         <ul class="footer-blog">
                                             <li>
                                                 <div class="thumb">
-                                                    <a href="blog-single.html">
+                                                    <a href="about.php">
                                                         <img src="assets/images/footer/blog1.png" alt="footer">
                                                     </a>
                                                 </div>
                                                 <div class="content">
-                                                    <a href="blog-single.html">Free Health Checkups</a>
+                                                    <a href="about.php">Free Health Checkups</a>
                                                     <span>Feb 23, 2023</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="thumb">
-                                                    <a href="blog-single.html">
+                                                    <a href="about.php">
                                                         <img src="assets/images/Jal Jeevan Mission Awareness Program/1 (2).jpeg" alt="footer">
                                                     </a>
                                                 </div>
                                                 <div class="content">
-                                                    <a href="blog-single.html">Jal Jeevan Mission</a>
+                                                    <a href="about.php">Jal Jeevan Mission</a>
                                                     <span>Mar 30, 2023</span>
                                                 </div>
                                             </li>

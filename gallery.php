@@ -50,7 +50,7 @@
         $countFile = count($file);
         }
         ?>
-        <?php foreach ($file as $x=>$val){ ?>
+        <?php foreach (array_reverse($file) as $x=>$val){ ?>
             <div class="masonary-item 
             <?php 
                 $a = substr($val,strpos($val,'-')+1);

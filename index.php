@@ -191,7 +191,7 @@
                         </div>
                         <div class="causes-content bg-white">
                             <a href="#" class="causes-catagiry mb-2 text-uppercase">Water awareness</a>
-                            <h4 class="title mb-3"><a href="#">Jal Jeevan Mission Awareness Program</a></h4>
+                            <h4 class="title mb-3"><a href="about.php">Jal Jeevan Mission Awareness Program</a></h4>
                             <p>
                                 By raising awareness of the issues surrounding water scarcity and pollution, we have helped to inspire action and promote sustainable practices that will ensure a better future for generations to come.
                             </p>
@@ -224,7 +224,7 @@
                         </div>
                         <div class="causes-content bg-white">
                             <a href="#" class="causes-catagiry mb-2 text-uppercase theme-color">WOMEN LITERACY</a>
-                            <h4 class="title mb-3"><a href="#">Empowering women through literac</a></h4>
+                            <h4 class="title mb-3"><a href="about.php">Empowering women through literac</a></h4>
                             <p>
                                 Our mission is to empower women through literacy. We work to provide women with the resources and opportunities they need to learn, grow, and succeed, and we believe that every woman deserves access to education.
                             </p>
@@ -258,7 +258,7 @@
                         </div>
                         <div class="causes-content bg-white">
                             <a href="#" class="causes-catagiry mb-2 text-uppercase theme-three">Recovery from Addictions</a>
-                            <h4 class="title mb-3"><a href="#">Addiction counseling and therapy</a></h4>
+                            <h4 class="title mb-3"><a href="about.php">Addiction counseling and therapy</a></h4>
                             <p>
                                 We help individuals recover from addiction and build healthy, fulfilling lives through our range of programs and support services. We provide counseling and therapy through our volunteers.
                             </p>
@@ -290,8 +290,8 @@
                                 <img src="assets/images/about/2 (4).jpeg" alt="project">
                             </div>
                             <div class="project-content">
-                                <a href="#"><h4 class="title">De-Addiction</h4></a>
-                                <a href="#" class="text-btn">read more +</a>
+                                <a href="about.php"><h4 class="title">De-Addiction</h4></a>
+                                <a href="about.php" class="text-btn">read more +</a>
                             </div>
                         </div>
                     </div>
@@ -303,8 +303,8 @@
                                 <img src="assets/images/about/2 (5).jpeg" alt="project">
                             </div>
                             <div class="project-content">
-                                <a href="#"><h4 class="title">Yoga and Fitness</h4></a>
-                                <a href="#" class="text-btn">read more +</a>
+                                <a href="about.php"><h4 class="title">Yoga and Fitness</h4></a>
+                                <a href="about.php" class="text-btn">read more +</a>
                             </div>
                         </div>
                     </div>
@@ -316,8 +316,8 @@
                                 <img src="assets/images/Paanlot Kaame/1 (3).jpeg" alt="project">
                             </div>
                             <div class="project-content">
-                                <a href="#"><h4 class="title">Skill Development</h4></a>
-                                <a href="#" class="text-btn">read more +</a>
+                                <a href="about.php"><h4 class="title">Skill Development</h4></a>
+                                <a href="about.php" class="text-btn">read more +</a>
                             </div>
                         </div>
                     </div>
@@ -329,8 +329,8 @@
                                 <img src="assets/images/Health/1 (9).jpeg" alt="project">
                             </div>
                             <div class="project-content">
-                                <a href="#"><h4 class="title">Health Care</h4></a>
-                                <a href="#" class="text-btn">read more +</a>
+                                <a href="about.php"><h4 class="title">Health Care</h4></a>
+                                <a href="about.php" class="text-btn">read more +</a>
                             </div>
                         </div>
                     </div>
@@ -510,7 +510,7 @@
                                         </a>
                                     </div>
                                     <div class="content pos-rel">
-                                        <h5 class="title"><a href="volunteer-single.html">Vinod Ramrao Sansane</a></h5>
+                                        <h5 class="title"><a href="#">Vinod Ramrao Sansane</a></h5>
                                         <span>SECRETARY</span>
                                     </div>
                                 </div>

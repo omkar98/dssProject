@@ -4,7 +4,7 @@ $cat = filter_input(INPUT_POST, 'cat', FILTER_SANITIZE_STRING);
 $statusMsg = '';
 $backlink = ' <a href="form.php">Go back</a>';
 // File upload path
-$targetDir = "assets/images/gallery/";
+$targetDir = "/public_html/assets/images/gallery/";
 $file = glob($targetDir . '*');
 $countFile = 0;
 if ($file != false) {

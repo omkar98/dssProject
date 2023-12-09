@@ -20,6 +20,14 @@
     <link rel="stylesheet" href="assets/css/main.css">
 
     <link rel="shortcut icon" href="assets/images/favicon.jpeg" type="image/x-icon">
+    <meta property="og:image" content="https://dssngoindia.org/assets/images/about/logo.jpeg" />
+
+    <meta property="og:description" content="DHANAWANTARI SEVABHAVI SANSTHA NGO Foundation is actively involved in several government projects such as NACO Maharastra AIDS control society, Jal Jeevan Mission, Ministry of Textiles Handicrafts Skill Development, and Ministry of Skill Development NSDC Skill Development Training. Also committed to women empowerment and have various programs for the development of orphan children, district de-addiction and rehabilitation centers, and old age homes. Through their work in these areas, they aim to improve the lives of marginalized communities and create a positive impact on society. Located at LOHA, NANDED, MAHARASHTRA, INDIA." />
+
+    <meta property="og:url"content="https://dssngoindia.org" />
+    <meta name="keywords" content="Vinod Ramrao Sansane, NGO Nanded, Loha, DHANAWANTARI SEVABHAVI SANSTHA, Food For All, Education For All Children, Water For All, De-Addiction, Yoga and Fitness">
+
+    <meta property="og:title" content="DHANAWANTARI SEVABHAVI SANSTHA Foundation, Loha, Nanded, MH" />
 </head>
 
 <body>
@@ -43,7 +51,7 @@
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-3 col-xl-3 col-sm-12 col-12">
                         <div class="logo py-2 w-50">
-                            <a href="index.html"><img src="assets/images/about/logo.jpeg" alt="logo"></a>
+                            <a href="index.php"><img src="assets/images/about/logo.jpeg" alt="logo"></a>
                         </div>
                     </div>
                     <div class="col-lg-9 col-12">

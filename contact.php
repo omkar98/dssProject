@@ -60,13 +60,27 @@
                             
                         </div>
                     </div>
-                    
+                    <?php
+                                    $qrCodeFile = implode(glob('assets/images/Team/QRCode.jpeg')); 
+                                    if (empty($qrCodeFile)) {
+                                        $GLOBALS['qrCode'] = false;
+                                        $GLOBALS['qrCodeFile'] = implode(glob('assets/images/Team/QRCode_demo.jpeg'));
+                                        $GLOBALS['qrCodeText'] = "UPI Payment & QR Code <br> Coming Soon!";
+                                    }
+                                    else {
+                                        $GLOBALS['qrCode'] = true;
+                                        $GLOBALS['qrCodeFile'] = $qrCodeFile;
+                                        $GLOBALS['qrCodeText'] = "UPI Payment via QR Code";
+                                    }  
+                                ?>
                     <div class="col-lg-6">
                         <h4 class="title text-uppercase text-center text">Donate At</h4>
                         <div class="contact-wrapper">
                             <div class="contact-item">
                                 <div class="contact-thumb">
-                                <img src="assets/images/Team/QRCode.jpeg" alt="add Banner">
+                                <h5 class="causes-catagiry mb-2 text-uppercase pr-5" style="color: red"><?php echo $GLOBALS['qrCodeText'] ?>
+                                </h5>
+                                <img src="<?php echo $GLOBALS['qrCodeFile']; ?>" alt="add Banner">
                                 </div>
                                 <div class="contact-content">
                                     <h6 class="title">Bank Account</h6>
