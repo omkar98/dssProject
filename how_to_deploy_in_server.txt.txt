@@ -2,7 +2,7 @@
 2. enter password: MH26@Ruchi
 3. check the current directory: pwd
 4. This is a long command. So copy using Ctrl+C and paste on terminal using the right click.
-5. If the current directory is not the one we want then go to: cd /home/u608760672/domains/aifdaodaa.in
+5. If the current directory is not the one we want then go to: cd /home/u608760672/domains/dssngoindia.org
 5. again enter: pwd
 6. check ls if you have the git folder
 7. now enter: git pull

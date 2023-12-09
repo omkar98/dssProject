@@ -134,7 +134,7 @@
         <div class="col-md-10">
             <div class="ticker-text">
                 <!-- Your ticker content goes here -->
-                <span>We are actively working on providing free <a href="about.php#skill-development">Skill
+                <span>We are actively working on providing free <a href="about.php#textiles">Skill
                         Development programs.</a>
                     for people with disabilities. Your donation would be highly valuable. <a href="contact.php">Please
                         Donate.</a></span>

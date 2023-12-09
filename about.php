@@ -103,7 +103,7 @@
                                             resources. To mitigate the adverse effects of drought on crops and
                                             livestock.
                                         </p>
-                                        <h4>3. Ministry of Textiles Handicrafts Skill Development Government of India
+                                        <h4 id="textiles">3. Ministry of Textiles Handicrafts Skill Development Government of India
                                         </h4>
                                         <p>Our NGO recognizes the importance of empowering women through skill
                                             development and is proud to be associated with the Ministry of Textiles
