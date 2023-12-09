@@ -37,6 +37,7 @@
             <li data-filter=".addiction"><span class="category">De-Addiction</span></li>
             <li data-filter=".skill"><span class="category">Skill Development</span></li>
             <li data-filter=".certi"><span class="category">Certifications</span></li>
+            <li data-filter=".disability"><span class="category">Disability</span></li>
             <li data-filter=".others"><span class="category">Others</span></li>
         </ul>
         <div class="masonary-wrapper lg-three-items">

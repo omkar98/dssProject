@@ -73,6 +73,24 @@ hr {
   padding: 0;
 }
 
+/* Style the ticker container */
+.ticker-container {
+  overflow: hidden;
+}
+
+/* Style the ticker text */
+.ticker-text {
+  display: inline-block;
+  /* padding-right: 50%; This will make it move continuously */
+  animation: tickerAnimation 20s linear infinite;
+}
+
+/* Define the ticker animation
+@keyframes tickerAnimation {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+} */
+
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:

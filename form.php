@@ -15,6 +15,7 @@
           <option value="news">news</option>
           <option value="certi">certifications</option>
           <option value="news">news</option> 
+          <option value="disability">disability</option> 
         </select> <br> <br>
         <input type="submit" name="submit" value="Upload">
   </form> <hr>

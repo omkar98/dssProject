@@ -22,12 +22,15 @@
     <link rel="shortcut icon" href="assets/images/favicon.jpeg" type="image/x-icon">
     <meta property="og:image" content="https://dssngoindia.org/assets/images/about/logo.jpeg" />
 
-    <meta property="og:description" content="DHANAWANTARI SEVABHAVI SANSTHA NGO Foundation is actively involved in several government projects such as NACO Maharastra AIDS control society, Jal Jeevan Mission, Ministry of Textiles Handicrafts Skill Development, and Ministry of Skill Development NSDC Skill Development Training. Also committed to women empowerment and have various programs for the development of orphan children, district de-addiction and rehabilitation centers, and old age homes. Through their work in these areas, they aim to improve the lives of marginalized communities and create a positive impact on society. Located at LOHA, NANDED, MAHARASHTRA, INDIA." />
+    <meta property="og:description"
+        content="DHANAWANTARI SEVABHAVI SANSTHA NGO Foundation is actively involved in several government projects such as NACO Maharastra AIDS control society, Jal Jeevan Mission, Ministry of Textiles Handicrafts Skill Development, and Ministry of Skill Development NSDC Skill Development Training. Also committed to women empowerment and have various programs for the development of orphan children, district de-addiction and rehabilitation centers, and old age homes. Through their work in these areas, they aim to improve the lives of marginalized communities and create a positive impact on society. Located at LOHA, NANDED, MAHARASHTRA, INDIA." />
 
-    <meta property="og:url"content="https://dssngoindia.org" />
-    <meta name="keywords" content="Vinod Ramrao Sansane, NGO Nanded, Loha, DHANAWANTARI SEVABHAVI SANSTHA, Food For All, Education For All Children, Water For All, De-Addiction, Yoga and Fitness">
+    <meta property="og:url" content="https://dssngoindia.org" />
+    <meta name="keywords"
+        content="Vinod Ramrao Sansane, NGO Nanded, Loha, DHANAWANTARI SEVABHAVI SANSTHA, Food For All, Education For All Children, Water For All, De-Addiction, Yoga and Fitness">
 
     <meta property="og:title" content="DHANAWANTARI SEVABHAVI SANSTHA Foundation, Loha, Nanded, MH" />
+    </body>
 </head>
 
 <body>
@@ -64,7 +67,7 @@
                                     <div class="ht-add-content">
                                         <span>Contact :</span>
                                         <span class="d-block text-bold">+91-8421755695 <br> +91-9096817358</span>
-                                        
+
                                     </div>
                                 </li>
                                 <li class="d-flex flex-wrap align-items-center">
@@ -73,7 +76,8 @@
                                     </div>
                                     <div class="ht-add-content">
                                         <span>Email : </span>
-                                        <span class="d-block text-bold">dssaidsngo@hotmail.com <br> vinodsasane3@gmail.com</span>
+                                        <span class="d-block text-bold">dssaidsngo@hotmail.com <br>
+                                            vinodsasane3@gmail.com</span>
                                     </div>
                                 </li>
                                 <li class="d-flex flex-wrap align-items-center">
@@ -82,7 +86,8 @@
                                     </div>
                                     <div class="ht-add-content">
                                         <span>Address : </span>
-                                        <span class="d-block text-bold"> Near Bus stop, Loha TQ., <br>Nanded, Maharashtra, INDIA. <br> Pin:431708</span>
+                                        <span class="d-block text-bold"> Near Bus stop, Loha TQ., <br>Nanded,
+                                            Maharashtra, INDIA. <br> Pin:431708</span>
                                     </div>
                                 </li>
                             </ul>
@@ -97,7 +102,8 @@
                     <div class="menu-area justify-content-between w-100">
                         <div class="col-lg-4 col-xl-4 col-sm-12 col-12">
                             <div class="w-100 py-3">
-                                <h4 class="title text-uppercase text-center text" style="color: white" href="index.html">DHANAWANTARI SEVABHAVI SANSTHA</h4>
+                                <h4 class="title text-uppercase text-center text" style="color: white"
+                                    href="index.html">DHANAWANTARI SEVABHAVI SANSTHA</h4>
                             </div>
                         </div>
                         <ul class="menu">
@@ -119,6 +125,22 @@
                 </div>
             </div>
         </div>
-    </header>
-    <!-- ==========Header Section Ends Here========== -->
 
+    </header>
+    <div class="row p-2" style="background: #FAFA39">
+        <div class="col-md-2" style="padding-left: 30px">
+            <span><b>&nbsp;LATEST:</b></span>
+        </div>
+        <div class="col-md-10">
+            <div class="ticker-text">
+                <!-- Your ticker content goes here -->
+                <span>We are actively working on providing free <a href="about.php#skill-development">Skill
+                        Development programs.</a>
+                    for people with disabilities. Your donation would be highly valuable. <a href="contact.php">Please
+                        Donate.</a></span>
+            </div>
+        </div>
+    </div>
+
+    
+    <!-- ==========Header Section Ends Here========== -->
