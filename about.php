@@ -79,7 +79,7 @@
                                         </p>
                                         <h4>2. Jal Jeevan Mission</h4>
                                         <p>Jal Jeevan Mission Ministry of Jal Shakti, Watershed Management Project Government of India Project: Our NGO is actively involved in the Jal Jeevan Mission, which is a flagship program of the Ministry of Jal Shakti aimed at providing safe and adequate drinking water to all rural households in India. We work with the Watershed Management Project of the Government of India to implement sustainable water management practices, promote water conservation, and provide access to safe drinking water in rural communities.</p>
-                                        <h5>2.1 Watershed Management / Jalshivar Work</h5>
+                                        <h4>3. Watershed Management / Jalshivar Work</h4>
                                         <p>
                                             Preparation of base maps for carrying out surveys.
 
@@ -105,7 +105,7 @@
                                             resources. To mitigate the adverse effects of drought on crops and
                                             livestock.
                                         </p>
-                                        <h4 id="textiles">3. Ministry of Textiles Handicrafts Skill Development Government of India
+                                        <h4 id="textiles">4. Ministry of Textiles Handicrafts Skill Development Government of India
                                         </h4>
                                         <p>Our NGO recognizes the importance of empowering women through skill
                                             development and is proud to be associated with the Ministry of Textiles
@@ -114,7 +114,7 @@
                                             earn a livelihood for themselves and their families.
 
                                         </p>
-                                        <h4 id="skill-development">4. Ministry of Skill Development NSDC Skill
+                                        <h4 id="skill-development">5. Ministry of Skill Development NSDC Skill
                                             Development Training</h4>
                                         <p>Our NGO is committed to promoting skill development among young people and is
                                             associated with the National Skill Development Corporation (NSDC) Skill
@@ -137,14 +137,14 @@
                                             And our Ngo Give free disabled person distribution wheel chair, stick and
                                             disabled instrument.</p>
                                         </p>
-                                        <h4>5. Women Empowerment Development</h4>
+                                        <h4>6. Women Empowerment Development</h4>
                                         <p>
                                             Our NGO firmly believes in the power of women and is dedicated to empowering
                                             them through various programs and initiatives. We work with women from all
                                             backgrounds, providing them with education, training, and support, and
                                             helping them become confident, self-sufficient members of their communities.
                                         </p>
-                                        <h4>6. Orphan Children Development Program</h4>
+                                        <h4>7. Orphan Children Development Program</h4>
                                         <p>
                                             Our NGO is committed to the welfare of orphaned and abandoned children and
                                             runs a comprehensive development program aimed at providing them with a safe
@@ -152,7 +152,7 @@
                                             work with children from all backgrounds, providing them with the tools and
                                             resources necessary for a better future.
                                         </p>
-                                        <h4>7. District De-Addiction & Rehabilitation Center</h4>
+                                        <h4>8. District De-Addiction & Rehabilitation Center</h4>
                                         <p>
                                             Our NGO recognizes the devastating impact of addiction on individuals and
                                             communities and runs a District De-Addiction & Rehabilitation Center aimed
@@ -161,7 +161,7 @@
                                             backgrounds, providing them with medical, psychological, and emotional
                                             support, and helping them overcome their addiction.
                                         </p>
-                                        <h4>8. Old Age Home</h4>
+                                        <h4>9. Old Age Home</h4>
                                         <p>
                                             Our NGO recognizes the needs of senior citizens and runs an Old Age Home
                                             aimed at providing a safe and comfortable living environment for the
