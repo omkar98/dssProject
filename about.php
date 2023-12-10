@@ -78,6 +78,8 @@
                                             and counseling, and support people living with HIV/AIDS.
                                         </p>
                                         <h4>2. Jal Jeevan Mission</h4>
+                                        <p>Jal Jeevan Mission Ministry of Jal Shakti, Watershed Management Project Government of India Project: Our NGO is actively involved in the Jal Jeevan Mission, which is a flagship program of the Ministry of Jal Shakti aimed at providing safe and adequate drinking water to all rural households in India. We work with the Watershed Management Project of the Government of India to implement sustainable water management practices, promote water conservation, and provide access to safe drinking water in rural communities.</p>
+                                        <h5>2.1 Watershed Management / Jalshivar Work</h5>
                                         <p>
                                             Preparation of base maps for carrying out surveys.
 
